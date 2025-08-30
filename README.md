@@ -1,2 +1,2 @@
-# Hangman-Game
+# stock portfolio tracker 
 Code Alpha Task
